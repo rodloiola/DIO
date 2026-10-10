@@ -9,38 +9,38 @@ Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM.
 
 ## Fontes utilizadas
 
-Algumas fontes foram importadas pelo Deep Reserach.
-* **A Guide to AWS Redshift Architecture (Domo):** `https://www.domo.com/learn/article/aws-redshift-architecture`[1]
-* **AWS History and Timeline regarding Amazon Redshift (hidekazu-konishi.com):** `https://hidekazu-konishi.com/entry/aws_history_and_timeline_amazon_redshift.html`[1]
-* **AWS Redshift Serverless Review (CelestInfo):** `https://www.celestinfo.com/aws-redshift-serverless-guide.html`[1]
-* **AWS Redshift vs Redshift Serverless Key Differences &amp; Guide (GoCloud):** `https://go-cloud.io/aws-redshift-vs-redshift-serverless/`[1]
-* **AWS-Announces-General-Availability-of-AQUA-for-Amazon-Redshift (US Press Center):** `https://press.aboutamazon.com/2021/4/aws-announces-general-availability-of-aqua-for-amazon-redshift`[1]
-* **Amazon Q Generative SQL(Redshift) querying view (AWS re:Post):** `https://repost.aws/questions/QUvnN-dNiMRgK5bG2TCTJjmQ/amazon-q-generative-sql-redshift-querying-view-referencing-external-table`[1]
-* **Interacting with Amazon Q generative SQL (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-generative-ai.html`[1]
-* **Amazon Redshift Documentation:** `https://www.amazonaws.cn/en/documentation-overview/amazon-redshift_/`[1]
-* **Amazon Redshift Pricing (AWS Global):** `https://aws.amazon.com/redshift/pricing/`[1]
-* **Amazon Redshift Pricing (AWS China):** `https://www.amazonaws.cn/en/redshift/pricing/`[1]
-* **Amazon Redshift Pricing A Complete Guide (Cloud Toggle):** `https://www.cloudtoggle.com/blog-en/amazon-redshift-pricing/`[1]
-* **Amazon Redshift Pricing Models Explained (Opsima):** `https://www.opsima.ai/blog/amazon-redshift-pricing-models-explained`[1]
-* **Amazon Redshift Pricing: RG vs RA3 vs Serverless Costs (CloudBurn):** `https://cloudburn.io/blog/amazon-redshift-pricing`[1]
-* **Amazon Redshift architecture (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/dg/c_redshift_system_overview.html`[1]
-* **Architecture components of an Amazon Redshift data warehouse (AWS Documentation):** `https://docs.aws.amazon.com/prescriptive-guidance/latest/query-lifecycle-redshift/architecture.html`[1]
-* **Aurora zero-ETL integration with Amazon Redshift (AWS):** `https://aws.amazon.com/rds/aurora/zero-etl/`[1]
-* **Billing for Amazon Redshift Serverless (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-billing.html`[1]
-* **Billing for on-demand compute capacity - Amazon Redshift (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-billing-on-demand.html`[2][3]
-* **Data warehouse system architecture - Amazon Redshift (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html`[1]
-* **Exploring Amazon Redshift Architecture: A Comprehensive Guide (ProsperOps):** `https://www.prosperops.com/blog/amazon-redshift-architecture/`[1]
-* **Secure generative SQL with Amazon Q (AWS Big Data Blog):** `https://aws.amazon.com/blogs/big-data/secure-generative-sql-with-amazon-q/`[1]
+Algumas fontes foram importadas pelo Deep Research, os vídeos foram de pesquisas. As fontes são confiáveis, pois além de fontes oficiais, são de pessoas que já possuem experiência utilizando o redshift.
+* **A Guide to AWS Redshift Architecture (Domo):** `https://www.domo.com/learn/article/aws-redshift-architecture`
+* **AWS History and Timeline regarding Amazon Redshift (hidekazu-konishi.com):** `https://hidekazu-konishi.com/entry/aws_history_and_timeline_amazon_redshift.html`
+* **AWS Redshift Serverless Review (CelestInfo):** `https://www.celestinfo.com/aws-redshift-serverless-guide.html`
+* **AWS Redshift vs Redshift Serverless Key Differences &amp; Guide (GoCloud):** `https://go-cloud.io/aws-redshift-vs-redshift-serverless/`
+* **AWS-Announces-General-Availability-of-AQUA-for-Amazon-Redshift (US Press Center):** `https://press.aboutamazon.com/2021/4/aws-announces-general-availability-of-aqua-for-amazon-redshift`
+* **Amazon Q Generative SQL(Redshift) querying view (AWS re:Post):** `https://repost.aws/questions/QUvnN-dNiMRgK5bG2TCTJjmQ/amazon-q-generative-sql-redshift-querying-view-referencing-external-table`
+* **Interacting with Amazon Q generative SQL (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-generative-ai.html`
+* **Amazon Redshift Documentation:** `https://www.amazonaws.cn/en/documentation-overview/amazon-redshift_/`
+* **Amazon Redshift Pricing (AWS Global):** `https://aws.amazon.com/redshift/pricing/`
+* **Amazon Redshift Pricing (AWS China):** `https://www.amazonaws.cn/en/redshift/pricing/`
+* **Amazon Redshift Pricing A Complete Guide (Cloud Toggle):** `https://www.cloudtoggle.com/blog-en/amazon-redshift-pricing/`
+* **Amazon Redshift Pricing Models Explained (Opsima):** `https://www.opsima.ai/blog/amazon-redshift-pricing-models-explained`
+* **Amazon Redshift Pricing: RG vs RA3 vs Serverless Costs (CloudBurn):** `https://cloudburn.io/blog/amazon-redshift-pricing`
+* **Amazon Redshift architecture (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/dg/c_redshift_system_overview.html`
+* **Architecture components of an Amazon Redshift data warehouse (AWS Documentation):** `https://docs.aws.amazon.com/prescriptive-guidance/latest/query-lifecycle-redshift/architecture.html`
+* **Aurora zero-ETL integration with Amazon Redshift (AWS):** `https://aws.amazon.com/rds/aurora/zero-etl/`
+* **Billing for Amazon Redshift Serverless (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-billing.html`
+* **Billing for on-demand compute capacity - Amazon Redshift (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-billing-on-demand.html`
+* **Data warehouse system architecture - Amazon Redshift (AWS Documentation):** `https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html`
+* **Exploring Amazon Redshift Architecture: A Comprehensive Guide (ProsperOps):** `https://www.prosperops.com/blog/amazon-redshift-architecture/`
+* **Secure generative SQL with Amazon Q (AWS Big Data Blog):** `https://aws.amazon.com/blogs/big-data/secure-generative-sql-with-amazon-q/`
 * **The evolution of Amazon Redshift (ResearchGate / VLDB):**
-* Página do artigo: `https://www.researchgate.net/publication/355745398_The_evolution_of_Amazon_redshift`[1]
-* PDF do estudo VLDB: `https://www.vldb.org/pvldb/vol14/p3162-pandis.pdf`[1]
-* **Vector Search in PostgreSQL for AI (AWS Video Hub):** `https://aws.amazon.com/video/watch/e8ebe5dadc7/`[4][5]
-* **Vector Search with Amazon Redshift (AWS re:Post):** `https://repost.aws/articles/ARPoweQIN2ROOXZiJAtSQvkQ/vector-search-with-amazon-redshift`[1]
-* **Write queries faster with Amazon Q generative SQL for Amazon Redshift (AWS Big Data Blog):** `https://aws.amazon.com/blogs/big-data/write-queries-faster-with-amazon-q-generative-sql-for-amazon-redshift/`[1]
-* **aws-samples / zero-etl-architecture-patterns (GitHub):** `https://github.com/aws-samples/zero-etl-architecture-patterns`[1]
+* Página do artigo: `https://www.researchgate.net/publication/355745398_The_evolution_of_Amazon_redshift`
+* PDF do estudo VLDB: `https://www.vldb.org/pvldb/vol14/p3162-pandis.pdf`
+* **Vector Search in PostgreSQL for AI (AWS Video Hub):** `https://aws.amazon.com/video/watch/e8ebe5dadc7/`
+* **Vector Search with Amazon Redshift (AWS re:Post):** `https://repost.aws/articles/ARPoweQIN2ROOXZiJAtSQvkQ/vector-search-with-amazon-redshift`
+* **Write queries faster with Amazon Q generative SQL for Amazon Redshift (AWS Big Data Blog):** `https://aws.amazon.com/blogs/big-data/write-queries-faster-with-amazon-q-generative-sql-for-amazon-redshift/`
+* **aws-samples / zero-etl-architecture-patterns (GitHub):** `https://github.com/aws-samples/zero-etl-architecture-patterns`
 * **Reference architectures for Amazon Redshift data warehouses (AWS PDF):** `https://d1.awsstatic.com/events/Summits/amer2021/augustsummitonline/Reference_architectures_for_Amazon_Redshift_data_warehouses_ANT201.pdf`
 
-* **Youtube:** https://www.youtube.com/watch?v=4bAjo3Z4x6Y , https://www.youtube.com/watch?v=8b58xGDHIog , https://www.youtube.com/watch?v=L8fQqVwTT3Y , https://www.youtube.com/watch?v=qvnQ58oc4xU , https://www.youtube.com/watch?v=4bAjo3Z4x6Y 
+* **Youtube:** https://www.youtube.com/watch?v=4bAjo3Z4x6Y , https://www.youtube.com/watch?v=8b58xGDHIog , https://www.youtube.com/watch?v=L8fQqVwTT3Y , https://www.youtube.com/watch?v=qvnQ58oc4xU
 
 ## Diretriz de comportamento
 
@@ -70,8 +70,6 @@ O **Amazon Redshift** é um serviço de *data warehouse* (armazém de dados) em 
 * **Análise Operacional em Tempo Real no Setor Financeiro:** Uma instituição financeira utiliza uma integração *Zero-ETL* entre o Amazon Aurora e o Amazon Redshift para replicar transações em tempo real. À medida que os pagamentos ocorrem no Aurora, os dados chegam em segundos ao Redshift, permitindo executar modelos de prevenção a fraudes ou relatórios operacionais sem atraso e sem sobrecarregar o banco de transações da aplicação.
 
 ---
-
-💡 **Sugestão para sua apresentação:** Gostaria que eu detalhasse um script SQL de exemplo e a estrutura da tabela (como definições de colunas e agregadores) que você pode executar ao vivo no Query Editor v2 durante a demonstração?
 
 Como funciona sua arquitetura e qual a diferença entre cluster provisionado e Serverless?
 
@@ -179,11 +177,8 @@ COPY vendas
 FROM 's3://meu-bucket-s3/dados_vendas/'
 IAM_ROLE 'arn:aws:iam::123456789012:role/MinhaRoleRedshift'
 FORMAT AS PARQUET;
-``` [13, 14]
-
 ```
 
----
 
 ### Passo 3: Execução de Consultas SQL Analíticas
 
@@ -196,8 +191,6 @@ FROM vendas
 GROUP BY cod_loja
 ORDER BY total_vendas DESC
 LIMIT 10;
-``` [5, 17]
-
 ```
 
 ---
@@ -217,7 +210,7 @@ LIMIT 10;
 
 ## Notebook compartilhado
 
-[ acessar o notebook sobre Amazon Redshift ](https://notebooklm.link.google/7zNfigUzbtxD)
+[ acessar o notebook sobre Amazon Redshift ](https://notebook.google.com/notebook/01dec5cf-84c2-4330-884f-aa25f08517b9)
 
 ## Materiais gerados
 
